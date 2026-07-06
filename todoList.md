@@ -1,12 +1,12 @@
 # Blog App — To Do
 
 ## Phase 0 — Git & GitHub Setup
-- [ ] Install the GitHub CLI if you don't have it: `winget install GitHub.cli`
-- [ ] Authenticate: `gh auth login` (opens a browser once to connect your account)
-- [ ] Create a new repo and clone it in one step: `gh repo create blog-app --public --clone`
-- [ ] `cd blog-app`
-- [ ] Add `CLAUDE.md`, `todoList.md`, and a root `.gitignore` to the cloned folder
-- [ ] `git add .` → `git commit -m "chore: add project docs and gitignore"` → `git push`
+- [x] Install the GitHub CLI if you don't have it: `winget install GitHub.cli`
+- [x] Authenticate: `gh auth login` (opens a browser once to connect your account)
+- [x] Create a new repo and clone it in one step: `gh repo create blog-app --public --clone`
+- [x] `cd blog-app`
+- [x] Add `CLAUDE.md`, `todoList.md`, and a root `.gitignore` to the cloned folder
+- [x] `git add .` → `git commit -m "chore: add project docs and gitignore"` → `git push`
 
 ---
 

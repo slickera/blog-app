@@ -31,7 +31,7 @@ blogAppME/
 
 ## Current Progress
 
-- [ ] Phase 0 — Git & GitHub Setup
+- [x] Phase 0 — Git & GitHub Setup
 - [ ] Phase 1 — Project Setup
 - [ ] Phase 2 — Database
 - [ ] Phase 3 — Server Structure
