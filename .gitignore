@@ -3,3 +3,6 @@ node_modules
 dist
 .vscode
 Thumbs.db
+CLAUDE.md
+todoList.md
+tailwindSheet.md
